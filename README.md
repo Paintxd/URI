@@ -1,6 +1,6 @@
 # URI
 ## URI Online Judge solved problems
 
-> C && CPP
+> C++ Logic shit
 
 *Many dumb code lines*
